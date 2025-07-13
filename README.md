@@ -37,8 +37,7 @@ A Python-based GUI application to simulate the kinematics of a 2-Degrees-Of-Free
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/automatomator/2d_robot_arm_sim.git](https://github.com/automatomator/2d_robot_arm_sim.git)
-    cd rob_arm_simulator
+    git clone https://github.com/automatomator/2d_robot_arm_sim.git
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
