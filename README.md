@@ -73,6 +73,8 @@ A Python-based GUI application to simulate the kinematics of a 2-Degrees-Of-Free
     rob_arm_sim_gui
     ```
 
+    __packaging still not perfect, could use some inputs about it,__
+
 2.  **Input Parameters:**
     The GUI allows you to input the following parameters:
 
