@@ -1,0 +1,69 @@
+# .gitignore for Python projects
+
+# Byte-code files
+*.pyc
+__pycache__/
+*.pyd
+*.pyo
+
+# Virtual environment
+# The name of your virtual environment directory
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+.eggs/
+wheels/
+htmlcov/
+.tox/
+
+# Installer logs
+*.log
+
+# Unit test / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+
+# IDE specific files
+# VS Code
+.vscode/
+# PyCharm
+.idea/
+# Eclipse
+.project
+.pydevproject
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.Trashes
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Jupyter Notebook files (if you use them)
+.ipynb_checkpoints
+
+# MyPy cache
+.mypy_cache/
+
+# User-specific configuration files (if any)
+# e.g., if you have a local_settings.py that shouldn't be committed
+# local_settings.py
+
+# Data directory contents (if you don't want to commit logs or other generated data)
+# If you only want to ignore logs within data/, you'd keep data/ but add data/logs/
+data/logs/
+
+# Any other temporary or generated files
+*.tmp
+*.bak
